@@ -252,10 +252,10 @@ function App() {
                   window.open("/config/roadmap.pdf", "_blank");
                 }}
                 style={{
-                  margin: "5px",
+                  margin: "10px",
                 }}
               >
-                Roadmap
+                Instructions
               </StyledButton>
               <StyledButton
                 style={{
